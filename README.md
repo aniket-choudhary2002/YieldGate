@@ -1,11 +1,30 @@
 # Yieldgate 🤝 Stake for Earth
 
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://yieldgate.mit-license.org/)
-[![codecov](https://codecov.io/gh/yieldgate/yieldgate/branch/develop/graph/badge.svg?token=Y1BVBCAJK5)](https://codecov.io/gh/yieldgate/yieldgate)
+Welcome to Yieldgate 🤝 Stake for Earth!
+
+Yieldgate is an innovative app designed to empower individuals like you to contribute towards the betterment of our planet. With Yieldgate, you can make a positive impact by participating in sustainable investment opportunities and supporting environmental projects.
+
+Our app combines the power of blockchain technology and sustainable finance, allowing you to stake your assets and earn rewards while actively supporting initiatives focused on environmental conservation, clean energy, reforestation, and more. By participating in Yieldgate, you become an integral part of the global movement towards a greener and more sustainable future.
+
+Key Features:
+
+1. Sustainable Investments: Discover a wide range of investment opportunities aligned with your environmental values. From green energy projects to sustainable agriculture, Yieldgate offers carefully curated options to maximize your positive impact.
+
+2. Staking and Rewards: Stake your assets in the app and earn attractive rewards. By engaging in staking, you directly contribute to the funding of impactful environmental initiatives and earn benefits for your participation.
+
+3. Project Transparency: We believe in transparency and accountability. Yieldgate provides detailed information about the environmental projects you support, including updates on progress, impact measurement, and financial statements.
+
+4. Community Engagement: Join a vibrant community of like-minded individuals who share your passion for sustainability. Connect, learn, and collaborate with other users, experts, and project leaders to amplify the impact of your efforts.
+
+5. Education and Resources: Stay informed and expand your knowledge about environmental sustainability through educational resources, articles, and expert insights available in the app. We aim to empower our users with the information they need to make informed decisions.
+
+Yieldgate is committed to creating a world where both financial prosperity and environmental conservation go hand in hand. Together, let's build a brighter future for our planet. Stake for Earth with Yieldgate!
+
+Note: Yieldgate is not affiliated with any specific financial institution or investment company. Please make sure to do your own research and consult with professionals before making any investment decisions.
 
 This repository serves as a codebase for two overlapping projects:
 
-- **Yieldgate** ([yieldgate.xyz](https://yieldgate.xyz)) is a protocol that allows anyone to start earning and building products with programmable yield. It originated as a finalist hackathon project at ETHGlobal in Amsterdam.
+- **Yieldgate** ([yieldgate.xyz](https://yieldgate.xyz)) is a protocol that allows anyone to start earning and building products with programmable yield. It originated as a finalist hackathon project at ETHIndia in Banglore.
 - **Stake for Earth** ([stakefor.earth](https://stakefor.earth)) is a pool which generates compounding yield to enable climate action at 0 cost.
 
 This project is backed by Aave, Toucan, The Graph, Polygon, Coinbase, and WalletConnect. ❤️
